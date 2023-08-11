@@ -21,5 +21,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/EMRES-f39c12?style=flat&logo=emotion_sim&logoColor=ffffff"/>
 </a>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iii719@naver.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iii719&theme=cobalt&show_icons=true)
